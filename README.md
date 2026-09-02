@@ -1,33 +1,44 @@
-# Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
+# Exno.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
+#  Register Number:212223230032
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word Prompting
+## Aim:
+To create a comprehensive report for the design of an AI-powered smart agriculture system using diverse prompt patterns. This report will employ scenario-based prompting techniques to guide each stage of the design process, ensuring the solution meets the functional and user experience requirements for precision farming and agricultural optimization.
 
-### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
-Procedure:
-1.	Straightforward Prompts:
-    - •	"Define photosynthesis in one sentence."
-    - 	"List three advantages of electric vehicles."
+## Procedure:
 
- 3.	Tabular Format Prompting:
-     •	"Compare and contrast AC and DC current in a table."
-     •	"Provide a table listing five programming languages, their paradigms, and one use case each."
-3. Preceding Question Prompting:
-    •	"Why is climate change a global concern? Explain how greenhouse gases contribute to global warming."
-    •	"How do vaccines work? Describe the process of immunization in simple terms."
-4. Missing Word Prompting:
-   •	"The capital of France is ____."
-  •	"In photosynthesis, plants absorb sunlight to produce ____."
+**1. Define the Scenario and Use Case.**
+Outline the purpose of the design, the target audience or user base,
+and its main objectives. Specify the goals the design aims to
+fulfill, such as crop yield optimization, resource conservation,
+or weather prediction.
+
+**2. Identify Prompt Patterns for Each Design Aspect**
+Select appropriate prompt patterns to guide different aspects of the
+design. Examples of prompt patterns and their applications in the
+report include:
+
+- Idea Generation Prompts: Brainstorm innovative features or
+functions the design should incorporate to meet specific goals.
+- Persona and Context Prompts: Define the tone, style, or
+experience the design should convey
+(e.g., user-friendly, sustainable, reliable),
+aligning with the intended audience.
+- Exploratory Prompts: Investigate resources or information
+essential for the design, such as farmer
+needs, environmental constraints, or technical
+requirements.
+- Refinement Prompts: Refine design elements by adjusting
+specifications, sensors, or interface to meet project standards.
+- Scenario Testing Prompts: Simulate realistic scenarios or
+use cases to test the design's effectiveness and adaptability
+in varying weather conditions, different crop types,
+or farm sizes.
+- Error Handling Prompts: Design prompts to handle potential
+issues or challenges effectively within the sensor networks,
+system functionality, or prediction algorithms.
 
 
-### Conclusion 
-
-
-Result: The various types of Prompts are executed successfully with generated the report.
-
-
-
-
-# Result: Thus the Prompts were exected succcessfully.
-
+**3. Implementation Plan**
+Describe the steps to build and implement the design, from system
+configuration, sensor selection, or IoT network
+setup to testing and deployment, installation,
